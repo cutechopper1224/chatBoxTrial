@@ -6,4 +6,4 @@
 4. 輸入英文單字，給予解釋以及例句
 
 ## FSM架構：
-![fsm](https://imgur.com/vR6KVuN)
+![fsm](https://github.com/cutechopper1224/chatBoxTrial/blob/master/show-fsm.png)
